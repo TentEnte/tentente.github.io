@@ -1,13 +1,8 @@
-{
+ {
         "asset": "ThankYou",
-        "website": "tentente.github.io",
+        "website": "http://tentente.github.io",
         "image": "https://tentente.github.io/thankyousmall.png",
         "image_large": "https://tentente.github.io/thankyoubig.png",
         "description": "Thank you all for helping me trough this",
-        "name": "ThankYou",
-        "origin": "unparta testnet",
-        "tradepair": "",
-        "dispenser": "188gkL7ZYcsoGShuv7VTFtZaG5RUcxcwhQ",
-        "license": "",
-        "series": ""
+        "name": "ThankYou"
         }
